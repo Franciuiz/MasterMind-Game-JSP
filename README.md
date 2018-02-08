@@ -4,6 +4,8 @@ Exercício da Cadeira Programação Servidor em Sistemas Web Ministrada por Alia
 
 5º Periodo de ADS - de 02/2015 à 07/2015.
 
+JSP + Apache Tomcat 8.0
+
 
 Basicamente, a aplicação sorteia um número composto por quatro dígitos. O objetivo é acertar o numero sorteado atravez das respostas "Otimo, Bom e Ruim", sendo um dígito ótimo aquele que encontra-se na posição exata em relação ao número secreto e um dígito bom aquele que está presente no número secreto, mas não na posição correta e um dígito ruim aquele que não encontra-se presente no numero sorteado.
 Ao realizar um palpite, o jogador recebe como resultado apenas a quantidade de números bons e ótimos, ou seja, o resultado do palpite não mostra quais são os números bons e ótimos de seu palpite.
